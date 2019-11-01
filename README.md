@@ -1,1 +1,1 @@
-# Flower classification udicity using pytorch
+# Flower classification using pytorch
